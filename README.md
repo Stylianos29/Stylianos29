@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Stylianos and I am a Physics grad student at Purdue Uiversity, Indiana.
-- 👀 I’m interested in Renormalization and Non-equilibrium phenomena.
-- 🌱 I’m currently learning new methods for scaling collapse.
-- 📫 You can reach me by email: gregoris@purdue.edu!
+- 👋 Hi, I’m Stylianos and I am a Physics PhD student at the Cyprus Institute, Nicosia.
+- 👀 I’m interested in Quantum Field Theory, QCD, Lattice QCD, Renormalization, and critical phenomena.
+- 🌱 I’m currently learning new methods and tools on High Performance Computing.
+- 📫 You can reach me by email: s.gregoriou@cyi.ac.cy!
 
 <!---
 Stylianos29/Stylianos29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
