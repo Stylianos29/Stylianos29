@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stylianos and I am a Physics PhD student at The Cyprus Institute, Nicosia.
-- 👀 I’m interested in Quantum Field Theory, QCD, Lattice QCD, Renormalization, and Critical Phenomena.
+- 👀 I’m interested in Quantum Field Theory, QCD Phenomenology, Lattice QCD, Renormalization, and Critical Phenomena.
 - 🌱 I’m currently learning new methods and tools on High Performance Computing.
 - 📫 You can reach me by email: s.gregoriou@cyi.ac.cy!
 
